@@ -15,5 +15,6 @@ about
 :caption: A topic
 
 folder_topic/article_topic
+folder_topic/additional_article
 ```
 
