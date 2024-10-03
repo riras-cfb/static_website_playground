@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Science Platform notes template"
-copyright = "2024, DTU Biosustain, Informatics Platform, DSP"
-author = "Henry Webel"
+project = "Static Website Markdown Playground"
+copyright = "2024, DTU Biosustain, Automation Team"
+author = "Rikke Rasmussen"
 
 
 # -- General configuration ---------------------------------------------------

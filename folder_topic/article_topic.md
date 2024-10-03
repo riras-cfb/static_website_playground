@@ -1,6 +1,6 @@
-# Headline of the article
+# Rikke's First-Ever Article in Markdown
 
-> Author: Your Name
+> Author: Rikke Rasmussen
 
 Write something using markdown syntax. You can use the 
 [Markdown Guide](https://www.markdownguide.org/basic-syntax/) or

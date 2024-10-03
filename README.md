@@ -27,8 +27,8 @@ see instructions
 - update in `conf.py` at least the author, project and copyright information at the top
   - also update two urls to your repository:
    ```json
-    "github_url": "https://github.com/enryh/",
-    "repository_url": "https://github.com/enryh/notes_template",
+    "github_url": "https://github.com/riras-cfb/",
+    "repository_url": "https://github.com/riras-cfb/static_website_playground",
     ```
 - write something about you in `about.md`
 - write articles in `folder_topic/article_topic.md`
