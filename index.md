@@ -16,6 +16,7 @@ about
 
 folder_topic/article_topic
 ```
+
 ```{toctree}
 :maxdepth: 1
 :hidden:
