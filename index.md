@@ -15,13 +15,5 @@ about
 :caption: A topic
 
 folder_topic/article_topic
-```
-
-```{toctree}
-:maxdepth: 1
-:hidden:
-:caption: Some other article
-:topic: Random stuff
-
 folder_topic/additional_article
 ```
